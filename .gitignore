@@ -36,4 +36,11 @@ coverage
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Keep client files visible
+!client/
+!client/src/
+!client/public/
+!client/package.json
+!client/package-lock.json 
